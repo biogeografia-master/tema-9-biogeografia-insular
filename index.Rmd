@@ -76,9 +76,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - @arrhenius1921species propuso una primera __generalización matemática__ de la relación especies-area.
 
-- La idea de Arrhenius era disponer de una __herramienta para comparar la diversidad entre islas__ (también explorar asociaciones entre especies).
+- La idea de Arrhenius era disponer de una __herramienta para comparar la diversidad entre islas__ (también explorar asociaciones entre especies, e.g. fitosociología).
+
+- $S=cA^z$ => $log(S)=log(c) + zlog(A)$
+
+  - donde $S$ es la riqueza de especies, $c$ es una constante (debe estimarse), $A$ área de la isla, y $z$ es la pendiente (también debe estimarse) que representa la pendiente de la recta al graficar la función en ejes logarítmicos
 
 ## ![](img/relacion-especie-area-arrhenius.jpg)
+
+## Patrones insulares
+
+- @gleason1922relation, relación semilogarítmica, usada en ecología de plantas.
+
+- $S= d + klog(A)$,
+
+  - donde $S$ es la riqueza, $d$ el intercepto, $k$ la pendiente cuando $S$ es representada contra el logaritmo del área ($A$).
+  
+## Patrones insulares
+
+- @preston1948commonness, "en cualquier área, sólo unas pocas especies son muy comunes (dominantes), mientras que la mayoría de las especies son moderadamente raras o raras del todo"
+
+- Distribución log-normal o "canónica".
+
+- La línea de velo aparece porque no se ha muestreado lo suficiente como para que las especies raras estén debidamente representadas.
+
+## ![](img/preston-lognormal.jpg){width=65%}
+
+## Patrones insulares
+
+- Preston también sugirió que ...
+
+  - ... **islas pequeñas y aisladas** tienen menos especies por unidad de superficie y **valores mayores del exponente $z$** de Arrhenius ... 
+  
+  - ... que lo que lo tienen **regiones de tamaño similar pero no aisladas**
+
+## ![](img/pendiente-de-la-curva-especies-area-log-log.jpg){width=52%}
+
+## Patrones insulares
+
+- Las observaciones de Preston fueron particularmente importantes porque vinculaban a __dos fenómenos__:
+
+  - La __distribución abundancia por especies__ (SAD, también denominada distribución rango-abundancia).
+  
+  - La relación __especies-área__.
+
+- Sus aportaciones sugerían que la __variabilidad en el aislamiento podía influir en la forma de la distribución rango-abundancia__.
 
 # Referencias
 
