@@ -128,7 +128,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Esta relación (**especies-aislamiento**) era, en la época (y actualmente de hecho), menos conocida.
 
-- $S= k_1e^{k_2(I)}$,
+- $S= k_1e^{-k_2(I)}$,
 
 - donde $k_1$ y $k_2$ son coeficientes a estimar e $I$ es el aislamiento.
 
