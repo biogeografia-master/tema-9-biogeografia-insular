@@ -122,6 +122,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Sus aportaciones sugerían que la __variabilidad en el aislamiento podía influir en la forma de la distribución rango-abundancia__.
 
+## Patrones insulares
+
+- Por otra parte, además de la relación especies-área, MacArthur y Wilson analizaron de forma **crítica y cuantitativa, la relación especies-aislamiento**
+
+- Esta relación (**especies-aislamiento**) era, en la época (y actualmente de hecho), menos conocida.
+
+- $S= k_1e^{k_2(I)}$,
+
+- donde $k_1$ y $k_2$ son coeficientes a estimar e $I$ es el aislamiento.
+
+## Patrones insulares
+
+- Múltiples problemas afectan a la forma de medir el aislamiento: ¿distancia a isla próxima? ¿distancia a continente? ¿distancia a isla que pueda actuar como fuente? ¿qué tal el papel de las aves migratorias o de los vientos/corrientes?
+
+- De todas formas, MacArthur y Wilson debían ser fieles al patrón bien conocido a la fecha de que, una vez la riqueza es estandarizada en función del área, **las islas remotas tienen menos especies**".
+
 # Referencias
 
 ##
