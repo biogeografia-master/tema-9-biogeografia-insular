@@ -132,11 +132,54 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - donde $k_1$ y $k_2$ son coeficientes a estimar e $I$ es el aislamiento.
 
+## ![](img/especies-area-especies-aislamiento.jpg)
+
+## ![](img/efecto-del-aislamiento-sobre-riqueza.jpg){width=75%}
+
 ## Patrones insulares
 
-- Múltiples problemas afectan a la forma de medir el aislamiento: ¿distancia a isla próxima? ¿distancia a continente? ¿distancia a isla que pueda actuar como fuente? ¿qué tal el papel de las aves migratorias o de los vientos/corrientes?
+- Múltiples problemas afectan a la forma de medir el aislamiento:
+
+  - ¿Distancia a isla próxima?
+  - ¿Distancia a continente?
+  - ¿Distancia a isla que pueda actuar como fuente?
+  - ¿Qué tal el papel de las aves migratorias o de los vientos/corrientes?
 
 - De todas formas, MacArthur y Wilson debían ser fieles al patrón bien conocido a la fecha de que, una vez la riqueza es estandarizada en función del área, **las islas remotas tienen menos especies**".
+
+## Patrones insulares
+
+- Finalmente, el último patrón de la biota insular, es el denominado __reemplazo de especies__.
+
+- En trabajos con hormigas de la Melanesia, Wilson había notado cómo __determinadas especies__, en su propagación desde el continente hacia la isla de Nueva Guinea, y hacia las islas más remotas y pequeñas de la Melanesia, __se excluían unas a otras por medio de competencia__.
+
+- MacArthur y Wilson usaron esta y otra evidencia (e.g. Krakatoa), para demostrar que los episodios de colonización eran rápidos y recurrentes, por lo que el establecimiento de nuevas especies debía tener algún tipo de control adicional, y este era el __reemplazo de especies__.
+
+# Teoría del equilibrio de la biogeografía insular, TEBI
+
+## Teoría del equilibrio de la biogeografía insular
+
+Algunos conceptos básicos definidos dentro de la TEBI:
+
+<section style="font-size: 32px; text-align: left;">
+
+- Colonización: la **persistencia** relativamente prolongada de una especie inmigrante en una isla (reproducción + aumento población).
+
+- Extinción: **desaparición** total de una *especie* en una isla (puede existir "recolonización").
+
+- Inmigración: proceso de __llegada__ de un propágulo a una isla no ocupada previamente por esta especie (no importa por cuánto tiempo permanezca).
+
+- Propágulo: __número mínimo de individuos__ de una especie, capaces de colonizar una isla habitable.
+
+</section>
+
+## ![](img/archipielago-krakatoa.jpg){width=55%}
+
+## Teoría del equilibrio de la biogeografía insular
+
+- La TEBI explicaba, en un único postulado, las tres características básicas de la biota insular: la relación especies-area, la relación especies-aislamiento, y el reemplazo de especies.
+
+## ![](img/modelo-de-equilibrio.jpg)
 
 # Referencias
 
