@@ -179,7 +179,71 @@ Algunos conceptos básicos definidos dentro de la TEBI:
 
 - La TEBI explicaba, en un único postulado, las tres características básicas de la biota insular: la relación especies-area, la relación especies-aislamiento, y el reemplazo de especies.
 
+- El modelo de equilibrio se representa graficando las tasas de inmigración y extinción como una función del número de especies (*S*).
+
+- *S* puede variar desde 0 hasta un máximo hipotético *P*.
+
+- *P* es el número de especies que está disponible para colonizar la isla desde un área "proveedora" de especies (continente u otra isla, en inglés *species pool*).
+
 ## ![](img/modelo-de-equilibrio.jpg)
+
+## Teoría del equilibrio de la biogeografía insular
+
+- Considérense una __isla vacía__ (escenario ideal), y evalúense las formas de las curvas que representan las __tasas de extinción e inmigración__.
+
+- La __tasa de inmigración__ (número de propágulos por unidad de tiempo que llegan a la isla, no presentes en esta) __disminuye__ desde un valor máximo (si la isla está vacía, será un valor razonablemente elevado) hasta alcanzar un cero teórico si la isla llegara a contener el mismo número de especies que el área fuente o *pool*.
+
+## Teoría del equilibrio de la biogeografía insular
+
+- Por el contrario, la __tasa de extinción__ (número de especies presentes en la isla que desaparecen) experimenta un __aumento gradual__ desde 0 (sin especies en la isla nada puede extinguirse) hasta alcanzar valores elevados en la medida que el número de especies aumenta, dado que __más y más especies tendrán poblaciones cada vez más pequeñas__ y, por lo tanto, serán más vulnerables a la extinción.
+
+- Este modelo asume el argumento de que la isla tiene una __capacidad de carga fija__ en el tiempo.
+
+## Teoría del equilibrio de la biogeografía insular
+
+- Para el eje de abscisas, en un valor entre 0 y *P* especies, las __curvas de las tasas de extinción e inmigración se cortarán__.
+
+- En el eje de ordenadas, en este punto, ambas tasas, __inmigración y extinción, serán exactamente iguales__.
+
+- De esta forma, se obtiene un __número de especies equilibrado o balanceado $\hat{S}$, y una tasa de equilibrio de reemplazo de especies $\hat{T}$__.
+
+## Teoría del equilibrio de la biogeografía insular
+
+- El __punto representa un equilibrio estable__, por lo que si el número de especies es __aumentado ($S''$) o disminuido ($S'$)__ respecto de $\hat{S}$ (por ejemplo, debido a un huracán, cambio del clima, intervención antrópica, etc.), la teoría sugiere que __se alcanzará nuevamente el número de equlibrio $\hat{S}$__.
+
+- Ahora incorporemos el __efecto de aislamiento y tamaño__ de las islas al modelo.
+
+## ![](img/modelo-equilibrio-efectos-islas.jpg)
+
+## Fortalezas y debilidades de la teoría del equilibrio
+
+- Algunas fortalezas:
+
+  - Se impulsó una __nueva corriente de investigación en biogeografía ecológica__ enfocada en islas y en otras áreas con características de aislamiento.
+
+  - La __representación gráfica__ de la teoría contribuyó mucho a su difusión y comprensión.
+
+  - El modelo __predice tendencias cualitativas__ en disminución o aumento de especies y tasas de reemplazo para distintos tamaños de islas y grados de aislamiento.
+
+## Fortalezas y debilidades de la teoría del equilibrio
+
+- Algunas debilidades:
+
+  - __Simplismo__. Oculta patrones y procesos que tienen lugar en la biogeografía de islas. No obstante, sus autores argumentaron en su momento que todo modelo sacrifica algo de precisión en favor de claridad y generalización.
+
+  - __Limitación para predicciones cuantitativas precisas__. Las curvas de extinción e inmigración no están del todo bien estudiadas como para producir generalizaciones que permitan este tipo de predicciones.
+
+## Fortalezas y debilidades de la teoría del equilibrio
+
+- Algunas debilidades:
+  
+  - La __separación artificial entre inmigración y extinción__.
+  
+  - Las curvas de extinción e inmigración, casi con total seguridad, __no son iguales para distintos grupos de organismos ni para todas las islas__ (por ejemplo, en distintas condiciones de aislamiento o tamaño, no necesariamente se producen las formas teóricas sugeridas por los autores), y __no son estables en el tiempo__ (las curvas cambian en tiempo geológico).
+  
+  - Se ignora la __especiación__.
+
+## ![](img/experimento-simberloff-wilson.jpg){width=55%}
 
 # Referencias
 
